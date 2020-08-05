@@ -56,7 +56,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endunless %}
 {% endif %}
 
-Before registering, please fill out <a href="https://docs.google.com/forms/d/1lyiMtYY-zXky2iAJLmubl_gz8UVBm-wXBUKXuWvAHPI/edit">this short form</a> to help the NCCU organizers. (After you register, please also do the pre-workshop survey linked below!)
+<strong>Before registering</strong>, please fill out <a href="https://docs.google.com/forms/d/1lyiMtYY-zXky2iAJLmubl_gz8UVBm-wXBUKXuWvAHPI/edit">this short form</a> to help the NCCU organizers. (After you register, please also do the pre-workshop survey linked below!)
+<p>
 
 {% comment %}
 EVENTBRITE
