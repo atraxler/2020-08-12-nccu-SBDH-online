@@ -56,7 +56,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endunless %}
 {% endif %}
 
-<p style="margin-bottom:3cm;"><strong>Before registering</strong>, please fill out <strong><a href="https://docs.google.com/forms/d/1lyiMtYY-zXky2iAJLmubl_gz8UVBm-wXBUKXuWvAHPI/edit">this short form</a></strong> to help the NCCU organizers. (After you register, please also do the pre-workshop survey linked below!)
+<p style="margin-bottom:2cm;"><strong>Before registering</strong>, please fill out <strong><a href="https://docs.google.com/forms/d/1lyiMtYY-zXky2iAJLmubl_gz8UVBm-wXBUKXuWvAHPI/edit">this short form</a></strong> to help the NCCU organizers. (After you register, please also do the pre-workshop survey linked below!)
 </p>
 
 {% comment %}
