@@ -11,4 +11,4 @@ spreadsheets, data cleaning (with OpenRefine), and data analysis and
 visualization (with R). 
 
 If you're a student, you probably want to go to the actual workshop website 
-[here][https://atraxler.github.io/2020-08-12-nccu-SBDH-online/]. 
+[here](https://atraxler.github.io/2020-08-12-nccu-SBDH-online/). 
